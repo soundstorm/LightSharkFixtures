@@ -55,7 +55,7 @@
 				</palette>
 			</palettes>
 		</mode>
-		<mode icon="mode1_icon.png" invert_pan="F" invert_tilt="F" multi_element="F" elements="" vmodes="F" virtual_dimmer="F" name="3ch" number_of_channels="3">
+		<mode icon="mode1_icon.png" invert_pan="F" invert_tilt="F" multi_element="F" elements="" vmodes="F" virtual_dimmer="T" name="3ch" number_of_channels="3">
 			<channels>
 				<channel bits="8" name="RED" number="1" priority="LTP" subelement="0" type="_RED_">
 					<segment name="Red" start="0" end="255" from="0" to="100" unit="%"></segment>
